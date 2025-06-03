@@ -1,5 +1,6 @@
 {
   "name": "zotyn/telegram-bot",
-  "description": "Bot de Telegram para supermercado",
+  "description": "Bot de Telegram para supermercado en PHP",
   "require": {}
 }
+
